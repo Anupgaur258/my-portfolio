@@ -1,0 +1,49 @@
+.img-fluid {
+    height: 70px;
+    width: 140px;
+}
+
+.csss {
+    height: 500px;
+    width: 600px;
+
+
+}
+
+.imgcard {
+    width: 400px;
+    height: 120px;
+}
+
+.card img:hover {
+    transform: scale(1.05);
+
+}
+
+.card img {
+    width: 250px;
+    height: 180px;
+}
+
+.card-body {
+    width: auto;
+    height: 205px;
+}
+
+.navbar-nav a {
+    padding-right: 10px;
+    margin-right: 15px;
+
+    font-weight: bold;
+
+}
+
+#my {
+    width: 450px;
+    height: auto;
+    padding-left: 100px;
+    padding-bottom: 30p;
+    margin-left: 190px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
